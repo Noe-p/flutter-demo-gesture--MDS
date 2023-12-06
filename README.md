@@ -6,16 +6,16 @@ Ce projet Flutter contient des exemples d'utilisation du widget GestureDetector 
 
 1. **Tap avec long appui :**
 
-   - Appuyez sur le conteneur pour afficher "Tap detected!".
-   - Maintenez le doigt pour afficher "Long press detected!".
+   - Appuyez sur le conteneur pour afficher dans la console "Tap detected!".
+   - Maintenez le doigt pour afficher dans la console "Long press detected!".
 
 2. **Double Tap :**
 
-   - Double-cliquez sur le conteneur pour afficher "Double tap detected!".
+   - Double-cliquez sur le conteneur pour afficher dans la console "Double tap detected!".
 
 3. **Pan (Déplacement) :**
 
-   - Faites glisser sur le conteneur pour afficher les mises à jour du déplacement.
+   - Faites glisser sur le conteneur pour afficher les mises à jour du déplacement dans la console.
 
 4. **Scale (Mise à l'échelle) :**
    - Pincez pour mettre à l'échelle le conteneur et afficher "Pincez pour mettre à l'échelle!".
